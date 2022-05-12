@@ -60,7 +60,15 @@ export default {
     border-radius: 0 5px 5px 0;
   }
   .addBtn{
+
     color:white;
     vertical-align: middle;
   }
+  /*.addBtn{*/
+  /*  display:block;*/
+  /*  width:50px;*/
+  /*  height: 50px;*/
+  /*  color:white;*/
+  /*  vertical-align: middle;*/
+  /*}*/
 </style>
